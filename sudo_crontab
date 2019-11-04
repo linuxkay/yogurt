@@ -1,3 +1,2 @@
-*/15 * * * * /usr/bin/perl /usr/local/ddns/ddns-update.pl
 00 04 * * 3 /bin/sh /root/sslupdate.sh
 

@@ -1,2 +1,2 @@
 @reboot sh /home/pi/.bootmsg.sh
-
+*/15 * * * * /usr/bin/perl /usr/local/ddns/ddns.pl
