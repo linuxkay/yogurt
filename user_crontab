@@ -1,2 +1,3 @@
 @reboot sh /home/pi/.bootmsg.sh
 */15 * * * * /usr/bin/perl /usr/local/ddns/ddns.pl
+*/30 * * * * /bin/sh /home/pi/Workspace/sync_time_for_katana.sh
