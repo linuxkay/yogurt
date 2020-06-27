@@ -34,6 +34,8 @@ SD 16GB -> SSD 128GB
 
 2020/06/25 Started project moving web server on Sakura VPS to Pi3B+
 
+2020/06/27 confirmed all sites moved to pi3B+
+
 ## Licence
 [MIT]
 
