@@ -1,0 +1,25 @@
+[200~ 1671  rsync -havvztP -e "ssh -p portNumber " username@serverIP:/home/username/ $HOME/f-server-backup/
+ 1672  rsync -havvztP --rsync-path="sudo rsync" -e "ssh -p portNumber " username@serverIP:/home/username/ $HOME/f-server-/
+ 1707  rsync -havvztP -e "ssh -p portNumber " username@serverIP:/etc/ $HOME/f-server-etc/
+ 1716  rsync -havvztP --rsync-path="sudo rsync" -e "ssh -p portNumber " username@serverIP:/etc/ $HOME/f-server-etc/
+ 1794  rsync -havvztP -e "ssh -p portNumber " username@serverIP:/var/www/ $HOME/www-backup/
+ 1796  rsync -havvztP --rsync-path="sudo rsync" -e "ssh -p portNumber " username@serverIP:/var/www/ $HOME/www-backup/
+ 1847  rsync -havvztP -e "ssh -p portNumber "username@serverIP:/home/username/ $HOME/f-server-backup/ --dry-run
+ 1850  rsync -havvztP -e "ssh -p portNumber "username@serverIP:/home/username/ $HOME/f-server-backup/ --dry-run
+ 1851  rsync -havvztP -e "ssh -p portNumber "username@serverIP:/home/username/ $HOME/f-server-backup/ 
+ 1852  rsync -havvztP -e "ssh -p portNumber " username@serverIP:/home/username/ $HOME/f-server-backup/ --dry-run
+ 1854  rsync -havvztP -e "ssh -p portNumber " username@serverIP:/home/username/ $HOME/f-server-backup/ --dry-run
+ 1855  rsync -havvztP -e "ssh -p portNumber " username@serverIP:/home/username/ $HOME/f-server-backup/
+ 2000  history | grep rsync
+ 2001  rsync -havvztP --rsync-path="sudo rsync" -e "ssh -p portNumber " username@serverIP:/var/log/ $HOME/f-server-log/
+ 2002  history | grep rsync
+ 
+ 
+ 
+ in server
+`sudo visudo`
+
+add following lines at the end of file.
+ # rsync
+ username ALL=NOPASSWD:/usr/bin/rsync
+
