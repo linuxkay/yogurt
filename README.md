@@ -39,6 +39,9 @@ SD 16GB -> SSD 128GB
 
 2020/06/27 confirmed all sites moved to pi3B+
 
+2020/06/29 Tried nginx optimization. access_log off causes drop rates in google insights. It supposed to be increase web site performance.
+
+
 ## Licence
 [MIT]
 
