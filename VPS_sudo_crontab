@@ -1,0 +1,10 @@
+00 05 * * 5     sh /root/backup.sh > /tmp/backuplog
+00 06 * * 5     sh /root/62daysdelete.sh > /tmp/deletelog
+0 */1 * * *     sh /root/delete4upload.sh 
+00 04 * * 5     sh /root/backup-flydroneyamatsu.sh > /tmp/backup-flydroneyamatsu.log
+#0 8-19/2 * * * cd /var/www/gerendevil && php weatherforski.php > /tmp/logweatherforski.log
+0 8-21/1 * * *  cd /var/www/gerendevil && php fin3.php > /tmp/unko.log
+0 8-19/2 * * *  cd /var/www/gerendevil && php weatherpicforski.php > /tmp/pic.log
+0 9,12,15 * * *  cd /var/www/gerendevil && php snowcover.php > /tmp/sekisetsu.log
+0 9-17/2 * * *  cd /var/www/flydrone.yamatsu && php windkawasaki.php > /tmp/windkawasaki.log
+#0 1 * * * /bin/sh /root/sslupdate.sh >> /tmp/sslog.txt                                                          

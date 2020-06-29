@@ -1,0 +1,2 @@
+#*/5 * * * * bash ~/Workspace/notifywhenpingok.sh
+#0 */6 * * * /bin/sh ~/Workspace/rsync_files_to_compress.sh
