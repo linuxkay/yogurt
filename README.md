@@ -45,6 +45,9 @@ SD 16GB -> SSD 128GB
 
 2020/07/04 added nginx -s reload after renewing certs in sslupdate.sh
 
+# Memo
+
+May need temp monitoring or cooling fan for pi3b+ to avoid over heating.
 ## Licence
 [MIT]
 
