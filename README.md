@@ -48,6 +48,9 @@ SD 16GB -> SSD 128GB
 # Memo
 
 May need temp monitoring or cooling fan for pi3b+ to avoid over heating.
+
+Need to initiate backup script for wordpress.
+
 ## Licence
 [MIT]
 
