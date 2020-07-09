@@ -51,6 +51,8 @@ May need temp monitoring or cooling fan for pi3b+ to avoid over heating.
 
 Need to initiate backup script for wordpress.
 
+Need to run ddns updater in cron
+
 ## Licence
 [MIT]
 
