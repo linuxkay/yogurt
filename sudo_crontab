@@ -1,2 +1,3 @@
-00 04 * * 3 /bin/sh /root/sslupdate.sh
+# run cron to update ssl cert from Let'sEncrypt. Save log at /var/tmp
+00 04 * * 3 /bin/sh /root/sslupdate.sh 2> /var/tmp/cron_error.log
 
