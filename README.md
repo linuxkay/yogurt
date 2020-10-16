@@ -25,6 +25,8 @@ SD 16GB -> SSD 128GB
 
 ## Requirements
 
+Raspberry Pi
+
 ## Install
 
 ## Usage
