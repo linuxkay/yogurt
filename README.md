@@ -11,7 +11,7 @@ Raspberry Pi
 
 Set up configs for raspberry pi yogurt.
 
-Specs
+Device specs
 
 Raspberry Pi Pi3B+
 
