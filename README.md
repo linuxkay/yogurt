@@ -51,7 +51,7 @@ Raspberry Pi
 
 May need add temp monitoring script and cooling fan for pi3b+ to avoid over heating.
 
-Need to initiate backup script for wordpress.
+Need to initiate backup script for wordpress in cron.
 
 Need to run ddns updater in cron.
 
