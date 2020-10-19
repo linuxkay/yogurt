@@ -57,6 +57,8 @@ Need to run ddns updater in cron.
 
 Decide when to run update and reboot.
 
+Need to fix cron for ssl cert update.
+
 ## Licence
 [MIT]
 
