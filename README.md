@@ -59,6 +59,8 @@ Decide when to run update and reboot.
 
 Need to fix cron for ssl cert update.
 
+Need to create pingserver like script. 
+
 ## Licence
 [MIT]
 
