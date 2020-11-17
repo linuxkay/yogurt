@@ -49,7 +49,7 @@ Raspberry Pi
 
 # Memo
 
-May need add temp monitoring script and cooling fan for pi3b+ to avoid over heating.
+May need add temp monitoring script and cooling fan for pi3b+ to avoid over heating. Ideally showing temp in graph.
 
 Need to initiate backup script for wordpress in cron.
 
