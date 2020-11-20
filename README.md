@@ -35,7 +35,7 @@ Raspberry Pi
 
 ## Updates
 
-2020/06/24 Installed 128GB SSD for replacing SD card boot.
+2020/06/24 Installed 128GB SSD for replacing SD card boot since SD card breaks every 1 year on high load envirnment.
 
 2020/06/25 Started project moving web server on Sakura VPS to Pi3B+
 
