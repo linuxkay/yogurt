@@ -61,7 +61,7 @@ Need to fix cron for ssl cert update.
 
 Need to create pingserver like script for server monitoring ideally on router. 
 
-Create conky monitoring For pingserver.
+Need to create conky monitoring For pingserver.
 
 ## Licence
 [MIT]
