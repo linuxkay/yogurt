@@ -55,7 +55,7 @@ Need to initiate backup script for wordpress in cron.
 
 Need to run ddns updater in cron.
 
-Schedule when to run update and reboot.
+Schedule when to run update and reboot <- this may causes unable to Boot.
 
 Need to fix cron for ssl cert update.
 
