@@ -47,7 +47,7 @@ Raspberry Pi
 
 2020/07/04 Added `nginx -s reload` after renewing certs in sslupdate.sh
 
-# Memo
+# Memo for future upgrades
 
 May need add temp monitoring script and cooling fan for pi3b+ to avoid over heating. Ideally showing temp in graph.
 
