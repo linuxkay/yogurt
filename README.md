@@ -15,7 +15,7 @@ Device list and specs
 
 Raspberry Pi Pi3B+
 
-SD 16GB -> SSD 128GB
+SD 16GB(Old spec) -> SSD 128GB(current spec)
 
 1GB RAM
 
