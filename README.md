@@ -25,7 +25,7 @@ SD 16GB(Old spec) -> SSD 128GB(current spec)
 
 ## Requirements
 
-Raspberry Pi
+Any Raspberry Pi
 
 ## Install
 
