@@ -57,7 +57,7 @@ Need to run ddns updater in cron.
 
 Schedule when to run update and reboot <- this may causes unable to Boot.
 
-Need to fix cron for ssl cert update.
+Need to fix cron for letsencrypt ssl cert update.
 
 Need to create pingserver like script for server monitoring ideally on router. 
 
