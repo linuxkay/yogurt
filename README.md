@@ -61,7 +61,7 @@ Need to fix cron for letsencrypt ssl cert update.
 
 Need to create pingserver like script for server monitoring ideally on router. 
 
-Need to create conky monitoring such as pingserver or python http response reading
+Need to create conky monitoring such as pingserver or using python http response reading method.
 
 ## Licence
 
