@@ -63,6 +63,8 @@ Need to create pingserver like script for server monitoring ideally on router.
 
 Need to create conky monitoring such as pingserver or using python http response reading method.
 
+Need to create monitorling log in graph.
+
 ## Licence
 
 [MIT]
