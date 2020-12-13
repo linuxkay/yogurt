@@ -65,7 +65,7 @@ Need to create conky monitoring such as pingserver or using python http response
 
 Need to create monitorling log in using graph.
 
-Need to upgrade Pi4 for better performance. Ideally Movidius2 for Image-Recognition.
+Need to upgrade pi3 to Pi4 for better performance. Ideally Movidius2 for Image-Recognition.
 
 ## Licence
 
