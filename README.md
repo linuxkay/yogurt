@@ -67,6 +67,8 @@ Need to create monitorling log in using graph.
 
 Need to upgrade pi3 to Pi4 for better performance. Ideally Movidius2 for Image-Recognition. If you can wait then wait for 5 to shows up.
 
+Need to stop domain updates for yamatsu
+
 ## Licence
 
 [MIT]
