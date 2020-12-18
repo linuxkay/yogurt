@@ -69,6 +69,8 @@ Need to upgrade pi3 to Pi4 for better performance. Ideally Movidius2 for Image-R
 
 Need to stop domain updates for yamatsu.
 
+Neet to update address info.
+
 ## Licence
 
 [MIT]
