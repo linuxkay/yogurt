@@ -45,7 +45,9 @@ Any Raspberry Pi
 
 2020/07/03 Fixed Let's encrypt renew certificate issue. It turned out updating IPv6 to DDNS service coult not resolve DNS in Letsencrypt. Writing 0:0:0:0:0:0:0:0 and Stop IPv6 updater made it fixed.
 
-2020/07/04 Added `nginx -s reload` after renewing certs in sslupdate.sh
+2020/07/04 
+
+Added `nginx -s reload` after renewing certs in sslupdate.sh
 
 # Memo for future upgrades
 
