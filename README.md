@@ -25,7 +25,7 @@ SD 16GB(Old spec) -> SSD 128GB(current spec)
 
 ## Requirements
 
-Any Raspberry Pi with Raspbian lite.
+Any Raspberry Pi with Raspbian lite instaled.
 
 ## Install
 
