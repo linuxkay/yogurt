@@ -73,6 +73,8 @@ Need to stop domain updates for yamatsu.
 
 Neet to update address info in yamatsu site.
 
+Need to add bind for LAN DNS.
+
 ## Licence
 
 [MIT]
