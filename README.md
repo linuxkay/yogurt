@@ -75,7 +75,7 @@ Neet to update address info in yamatsu site.
 
 Need to add bind for LAN DNS to avoid chaning hosts file everytime. <- Learn more about bind.
 
-Need to fix unable to reboot using SSD on Pi.
+Need to fix unable to reboot using SSD on Pi. May need firmware upgrade.
 
 ## Licence
 
