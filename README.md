@@ -79,7 +79,7 @@ Need to fix unable to reboot using SSD on Pi. May need firmware upgrade.
 
 Impact 4 - Analyze user drop rate on do-you-linux.com. Assuming changing raspberry pi from Sakura vps caused a problem. Moreover, no updating blog affects user drop rates badly.
 
-Impact 4 - ieserver is out dated. Need to use other ddns service. Stopped ddns.pl in cron.
+Impact 4 - ieserver is out dated. Need to use other ddns service. Stopped ddns.pl in cron 2021/01/01.
 
 ## Licence
 
