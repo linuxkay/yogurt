@@ -75,7 +75,7 @@ Neet to update address info in yamatsu site.
 
 Need to add bind for LAN DNS to avoid chaning hosts file everytime. <- Learn more about bind.
 
-Need to fix unable to reboot using SSD on Pi. May need firmware upgrade.
+Need to fix unable to reboot using SSD on Pi. May need firmware upgrade or Upgrade Pi4.
 
 Impact 4 - Analyze user drop rate on do-you-linux.com. Assuming changing raspberry pi from Sakura vps caused a problem. Moreover, no updating blog affects user drop rates badly.
 
