@@ -81,7 +81,7 @@ Impact 4 - Analyze user drop rate on do-you-linux.com. Assuming changing raspber
 
 Impact 4 - ieserver is out dated. Need to use other ddns service. Stopped ddns.pl in cron 2021/01/01.
 
-Create server monitoring using github fro get graph image.
+Create server monitoring using github to get graph image.
 
 ## Licence
 
