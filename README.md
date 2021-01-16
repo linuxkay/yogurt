@@ -37,9 +37,9 @@ Any Raspberry Pi with Raspbian lite installed.
 
 2020/06/24 Installed 128GB SSD for replacing SD card boot since SD card breaks every 1 year on high load environment.
 
-2020/06/25 Started project moving web server on Sakura VPS to Pi3B+
+2020/06/25 Started project moving web server on Sakura VPS to Pi3B+.
 
-2020/06/27 Confirmed all sites moved to pi3B+
+2020/06/27 Confirmed all sites moved to pi3B+.
 
 2020/06/29 Optimized nginx settings for best speed. Writing access_log off causes score drop like 50->39 in google insights. It supposed to increase web site performance.
 
