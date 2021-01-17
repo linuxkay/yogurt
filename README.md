@@ -47,7 +47,7 @@ Any Raspberry Pi with Raspbian lite installed.
 
 2020/07/04 
 
-Added `nginx -s reload` after renewing certs in sslupdate.sh
+Added `nginx -s reload` after renewing certs in sslupdate.sh.
 
 # Memo for future upgrades
 
