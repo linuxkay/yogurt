@@ -15,7 +15,7 @@ Device spec list.
 
 Raspberry Pi Pi3B+.
 
-SD 16GB(Old spec) -> SSD 128GB(current spec) May need to ugrade for newer Pi for better performance.
+SD 16GB(Old spec Now SD16GB removed from Pi) -> SSD 128GB(current spec) May need to ugrade for newer Pi for better performance.
 
 1GB of RAM
 
