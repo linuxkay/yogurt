@@ -13,6 +13,8 @@ Set up configs for raspberry pi yogurt.
 
 Device spec list.
 
+Ideally Pi4
+
 Raspberry Pi Pi3B+.
 
 SD 16GB(Old spec Now SD16GB removed from Pi) -> SSD 128GB(current spec) May need to ugrade for newer Pi for better performance.
