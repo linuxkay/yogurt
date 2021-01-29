@@ -13,7 +13,7 @@ Set up configs for raspberry pi yogurt.
 
 Device spec list.
 
-Ideally Pi4
+Ideally Raspberry Pi4
 
 Raspberry Pi Pi3B+.
 
