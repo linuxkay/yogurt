@@ -13,7 +13,7 @@ Set up configs for raspberry pi yogurt.
 
 Device spec list.
 
-Ideally Raspberry Pi4
+Ideally Raspberry Pi4 at least 1GB of RAM.
 
 Raspberry Pi Pi3B+.
 
