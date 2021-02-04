@@ -11,7 +11,7 @@ Raspberry Pi
 
 Set up configs for raspberry pi yogurt.
 
-Device spec list.
+Device speccification list.
 
 Ideally Raspberry Pi4 8GB of RAM.
 
