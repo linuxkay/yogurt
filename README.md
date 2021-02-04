@@ -15,6 +15,8 @@ Device speccification list.
 
 Ideally Raspberry Pi4 8GB of RAM.
 
+Intel Movidius
+
 Raspberry Pi Pi3B+.
 
 SD 16GB(Old spec Now SD16GB removed from Pi) -> SSD 128GB(current spec) May need to ugrade for newer Pi for better performance.
