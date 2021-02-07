@@ -15,7 +15,7 @@ Device speccification list.
 
 Ideally Raspberry Pi4 8GB of RAM.
 
-Intel Movidius for image processing.
+Intel Movidius for neral net image processing.
 
 Raspberry Pi Pi3B+.
 
