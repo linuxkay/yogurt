@@ -15,7 +15,7 @@ Device speccification list.
 
 Ideally Raspberry Pi4 8GB of RAM.
 
-Intel Neural Compute Stick 2 (2018) for net image processing.
+Intel Neural Compute Stick 2 (2018) for image processing.
 
 Raspberry Pi Pi3B+.
 
