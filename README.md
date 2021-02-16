@@ -13,7 +13,7 @@ Set up configs for raspberry pi yogurt.
 
 Device speccification list.
 
-Ideally Raspberry Pi4 8GB of RAM.
+Ideally Raspberry Pi4 with 8GB of RAM.
 
 Intel Neural Compute Stick 2 (2018) for image processing.
 
