@@ -9,7 +9,7 @@ Raspberry Pi
 
 ## Description
 
-Set up configs for raspberry pi yogurt.
+Configs for raspberry pi yogurt.
 
 Device speccification list.
 
