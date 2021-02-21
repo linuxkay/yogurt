@@ -91,7 +91,7 @@ References
 
 For the graph.
 
-Neet to setup asap https://gigazine.net/news/20210104-upptime/
+Neet to setup asap for server monitoring. https://gigazine.net/news/20210104-upptime/
 
 ## Licence
 
