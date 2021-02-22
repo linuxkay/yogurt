@@ -77,7 +77,7 @@ Need to stop domain updates for yamatsu. Expect shutdown June1st 2021.
 
 Neet to update address info in yamatsu site.
 
-Need to add bind for LAN DNS to avoid chaning hosts file everytime. <- Learn more about bind.
+Need to add bind for LAN DNS to avoid chaning hosts file everytime. <-- Learn more about bind.
 
 Need to fix unable to reboot using SSD on Pi. May need firmware upgrade or Upgrade Pi4.
 
