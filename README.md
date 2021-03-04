@@ -87,7 +87,7 @@ Impact 2 - ieserver is out dated. Need to use different ddns service. Stopped dd
 
 Feature requests: Create server monitoring using github to get graph image.
 
-Add slashes on each internal link ends for better SEO.
+Add slashes on each internal link ends for better SEO and better performance.
 
 References
 
