@@ -85,7 +85,7 @@ Impact 2 - Analyze user drop rate on do-you-linux.com. Assuming changing raspber
 
 Impact 2 - ieserver is out dated. Need to use different ddns service. Stopped ddns.pl in cron 2021/01/01.
 
-Feature requests: Create server monitoring using github to get graph image.
+Feature requests: Create server monitoring using github to get graph images.
 
 Add slashes on each internal link ends for better SEO and better performance.
 
