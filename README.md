@@ -59,7 +59,7 @@ May need add temp monitoring script and cooling fan for pi3b+ to avoid over heat
 
 Need to initiate a backup script for wordpress in cron.
 
-Need to run ddns updater in cron.
+Need to test and run ddns updater in cron.
 
 Schedule when to run update and reboot <- this may causes unable to Boot.
 
