@@ -57,7 +57,7 @@ Added `nginx -s reload` after renewing certs in sslupdate.sh.
 
 May need add temp monitoring script and cooling fan for pi3b+ to avoid over heating. Ideally showing temp in graph.
 
-Need to initiate a backup script for wordpress in cron.
+Need to initiate backup scripts for wordpress in cron.
 
 Need to test and run ddns updater in cron.
 
