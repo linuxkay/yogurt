@@ -53,7 +53,7 @@ Any Raspberry Pi with Raspbian OS installed(Raspbian Lite reommended).
 
 Added `nginx -s reload` after renewing certs in sslupdate.sh.
 
-# Memo for future upgrades or fix.
+# Memo for future upgrades or urgent fix.
 
 May need add temp monitoring script and cooling fan for pi3b+ to avoid over heating. Ideally showing temp in graph.
 
