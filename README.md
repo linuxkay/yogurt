@@ -37,7 +37,7 @@ Any Raspberry Pi with Raspbian OS installed(Raspbian Lite reommended).
 
 ## Contribution
 
-## Updates
+## Updates and Logs
 
 2020/06/24 Installed 128GB SSD for replacing SD card boot since SD card breaks every 1 year on high load environment.
 
