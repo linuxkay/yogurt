@@ -35,7 +35,7 @@ Any Raspberry Pi with Raspbian OS installed(Raspbian Lite reommended).
 
 ## Usage
 
-## Contribution
+## Contributions
 
 ## Updates and Logs
 
