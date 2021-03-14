@@ -31,7 +31,7 @@ SD 16GB(←Old spec. Now SD16GB removed from Pi) -> SSD 128GB(current spec) May 
 
 Any Raspberry Pi with Raspbian OS installed(Raspbian Lite reommended).
 
-## Install
+## Installation
 
 ## Usage
 
