@@ -39,7 +39,7 @@ Any Raspberry Pi with Raspbian OS installed(Raspbian Lite reommended for Non GUI
 
 ## Updates and Logs
 
-2020/06/24 Installed 128GB SSD for replacing SD card boot since SD card breaks every 1 year on high load environment.
+2020/06/24 Installed 128GB SSD for replacing SD card boot since SD card breaks every 1 year on high load environments.
 
 2020/06/25 Started project moving web server on Sakura VPS to Pi3B+.
 
