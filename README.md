@@ -69,7 +69,7 @@ Need to create pingserver like script for server monitoring ideally on router.
 
 Need to create conky monitoring such as pingserver or using python http response reading method.
 
-Need to create monitorling log in using graph.
+Need to create monitorling logs in using graph.
 
 Need to upgrade pi3 to Pi4 for better performance. Ideally Movidius2 for Image-Recognition. If you can wait then wait for 5 to shows up.
 
