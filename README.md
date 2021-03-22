@@ -73,7 +73,7 @@ Need to create monitorling logs in using graph.
 
 Need to upgrade pi3 to Pi4 for better performance. Ideally Movidius2 for Image-Recognition. If you can wait then wait for 5 to shows up.
 
-Need to stop domain updates for yamatsu. Expect shutdown June1st 2021.
+Need to stop domain updates for yamatsu. Expect shutdown June 1st 2021.
 
 Neet to update address info in yamatsu site.
 
