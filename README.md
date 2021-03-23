@@ -75,7 +75,7 @@ Need to upgrade pi3 to Pi4 for better performance. Ideally Movidius2 for Image-R
 
 Need to stop domain updates for yamatsu. Expect shutdown June 1st 2021.
 
-Neet to update address info in yamatsu site.(no need to do since shuttting down)
+Neet to update address info in yamatsu site.(No need to implement since shuttting down)
 
 Need to add bind for LAN DNS to avoid chaning hosts file everytime. <-- Learn more about how to setup bind in linux.
 
