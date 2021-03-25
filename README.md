@@ -91,9 +91,7 @@ Add slashes on each internal link ends for better SEO and better performance.
 
 ## References
 
-For the graph server monitoring in using github.
 
-Neet to setup asap for server monitoring. https://gigazine.net/news/20210104-upptime/
 
 ## Licence
 
