@@ -81,13 +81,15 @@ Need to add bind for LAN DNS to avoid chaning hosts file everytime. <-- Learn mo
 
 Need to fix unable to reboot using SSD on Pi. May need firmware upgrade or Upgrade Pi4.
 
-Impact 2 - Analyze user drop rate on do-you-linux.com. Assuming changing raspberry pi from Sakura vps caused a problem. Moreover, no updating blog affects user drop rates badly.
+ Analyze user drop rate on do-you-linux.com. Assuming changing raspberry pi from Sakura vps caused a problem. Moreover, no updating blog affects user drop rates badly.
 
-Impact 2 - ieserver is out dated. Need to use different ddns service. Stopped ddns.pl in cron 2021/01/01.
+ieserver is out dated. Need to use different ddns service. Stopped ddns.pl in cron 2021/01/01.
 
 Feature requests: Create server monitoring using github to get graph images.(Checked Mar21st 2021. still under dev?)
 
 Add slashes on each internal link ends for better SEO and better performance.
+
+Investigate server availability.
 
 ## References
 
