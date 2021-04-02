@@ -97,6 +97,7 @@ Investigate server up and down time.
 80 days runtime.
 
 4/3/2021 500 internal server error.
+ Updated system. 176MB of ram cosumuing.
 
 ## References
 
