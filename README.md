@@ -96,7 +96,7 @@ Investigate server up and down time.
 3/30/2021 disabled stopped detecting.service and recording.service
 80 days runtime.
 
-4/3/2021 500 internal server error.
+4/3/2021 500 internal server error. Rebooted
  Updated system. 176MB of ram cosumuing. Updated all wordpress and plugins.V5.7
 
 ## References
