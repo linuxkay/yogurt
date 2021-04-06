@@ -97,7 +97,7 @@ Investigate server up and down time.
 80 days runtime.
 
 4/3/2021 500 internal server error. Rebooted
- Updated system. 176MB of ram cosumuing. Updated all wordpress and plugins.V5.7
+ Updated system. 176MB of ram cosumuing. Updated all wordpress to version 5.7 annd plugins.
 
 ## References
 
