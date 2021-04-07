@@ -93,7 +93,7 @@ Investigate server up and down time.
 
 ## Current notes
 
-3/30/2021 disabled stopped detecting.service and recording.service
+3/30/2021 Disabled stopped detecting.service and recording.service
 80 days runtime.
 
 4/3/2021 500 internal server error. Rebooted
