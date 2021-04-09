@@ -91,7 +91,7 @@ Add slashes on each internal link ends for better SEO and better performance.
 
 Investigate server up and down time.
 
-## Current notes
+## Current setup notes
 
 3/30/2021 Disabled stopped detecting.service and recording.service
 80 days runtime.
