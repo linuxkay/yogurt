@@ -99,7 +99,7 @@ Investigate server up and down time.
 4/3/2021 500 Internal server error. Rebooted
  Updated system. 176MB of ram cosumuing. Updated all wordpress to version 5.7 annd plugins.
 
-4/11/2021 Plan for shutdown some unused blogs.
+4/11/2021 Plan for shutting down some unused blogs.
 
 ## References
 
