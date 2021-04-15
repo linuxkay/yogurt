@@ -89,7 +89,7 @@ Feature requests: Create server monitoring using github to get graph images.(Che
 
 Add slashes on each internal link ends for better SEO and better performance.
 
-Investigate server up and down time.
+Get data of server up and down time.
 
 ## Current setup notes
 
