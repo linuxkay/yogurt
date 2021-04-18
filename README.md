@@ -96,7 +96,7 @@ Get data of server up and down time.
 3/30/2021 Disabled stopped detecting.service and recording.service
 80 days runtime.
 
-4/3/2021 Got 500 Internal server error. Rebooted
+4/3/2021 Got 500 Internal server error. Rebooted Pi.
  Updated system. 176MB of ram cosumuing. Updated all wordpress to version 5.7 annd plugins.
 
 4/11/2021 Make a plan for shutting down some unused blogs and web sites.
