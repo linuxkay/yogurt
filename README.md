@@ -102,7 +102,7 @@ Analyze data: server running and down time.
 
 4/11/2021 Project Danshari: Make a plan for shutting down some unused blogs and web sites.
 
-4/25/2021 Pi Down
+4/25/2021 Pi Down.
 
 ## References
 
