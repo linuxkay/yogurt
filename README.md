@@ -105,6 +105,7 @@ Analyze data: server running and down time.
 4/25/2021 Pi Down.
 4/28/2021 No ping.
 4/29/2021 Turned out usb power adapter issue. Upated system.
+5/03/2021 Pi Down. Maybe related to unplug LAN cable.
 *Using rpi-update command not recommended.
 
 ## References
