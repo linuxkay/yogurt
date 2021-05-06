@@ -107,7 +107,7 @@ Analyze data: server running and down time.
 4/29/2021 Turned out usb power adapter issue. Upated system.
 5/03/2021 Pi Down. Maybe related to unplug LAN cable.
 5/04/2021 Pi up.(Wrong usb charging port)
-5/06/2021 Confirmed it's all working.
+5/06/2021 Confirmed websites are all working.
 *Using rpi-update command not recommended.
 
 ## References
