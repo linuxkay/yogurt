@@ -109,6 +109,8 @@ Analyze data: server running and down time.
 5/04/2021 Pi up.(Wrong usb charging port was used.)
 5/06/2021 Confirmed websites are all working.
 5/25/2021 Confirmed websites are all working.
+6/21/2021 Confirmed websites are all working.
+Set flydrone shutdown at 7/3/2021.
 Using rpi-update command not recommended.
 
 ## References
